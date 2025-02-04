@@ -1,0 +1,35 @@
+#nav {
+    height: 70px;
+    width: 100%;
+    background-color: rgb(28, 24, 24);
+    color: white;
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#nav>ul {
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 10px;
+    padding: 5px 10px;
+    align-items: center;
+}
+
+#nav>ul>li {
+    text-transform: capitalize;
+}
+
+#nav>figure {
+    height: 100%;
+    width: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#nav>figure>img {
+    height: 100%;
+    cursor: pointer;
+}

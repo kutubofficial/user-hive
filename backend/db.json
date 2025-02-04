@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "9df4",
+      "username": "aibak",
+      "email": "aibak@gmail.com",
+      "password": "aibak",
+      "phoneno": "9846523525",
+      "gender": "male",
+      "dob": "2025-01-02",
+      "agreement": true
+    },
+    {
+      "id": "e964",
+      "username": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc",
+      "phoneno": "9999888800",
+      "gender": "male",
+      "dob": "2025-01-02",
+      "agreement": true
+    },
+    {
+      "id": "9a8b",
+      "username": "xyz",
+      "email": "xyz@gmail.com",
+      "password": "xyz",
+      "phoneno": "8882885554",
+      "gender": "male",
+      "dob": "2025-01-10",
+      "agreement": true
+    },
+    {
+      "id": "2563",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "phoneno": "9876543210",
+      "gender": "male",
+      "dob": "2025-01-10",
+      "agreement": true
+    }
+  ]
+}
