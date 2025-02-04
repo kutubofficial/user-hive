@@ -14,3 +14,6 @@ const Layout = () => {
 };
 
 export default Layout;
+
+//! backend json-server commond -
+// npx json-server backend/db.json --watch --port 4040
